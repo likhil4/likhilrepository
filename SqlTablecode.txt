@@ -1,0 +1,1 @@
+create table tbl_employee(id int ,Name varchar(100),Gender varchar(100),Age int,Department varchar(100),Address varchar(100),Contact varchar(100),UserName varchar(100),PassWord varchar(100));
